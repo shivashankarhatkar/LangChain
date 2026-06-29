@@ -1,4 +1,4 @@
-# LangChain AI Engineering Toolkit (LangChainP)
+# LangChain AI Engineering Toolkit
 
 An educational and production-ready repository demonstrating the end-to-end lifecycle of Generative AI applications using the LangChain framework. This project systematically breaks down advanced LLM orchestration concepts—from basic prompt templates to complete Retrieval-Augmented Generation (RAG) pipelines—into scalable Python implementations.
 
